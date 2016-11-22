@@ -28,3 +28,9 @@ Below is a list of automated tasks that can be included in each project
 | one           |               | 
 | two           |               |  
 | three         |               |    
+
+| Task          | Documentation | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |  
