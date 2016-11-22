@@ -20,4 +20,11 @@ This can include people who are blind, color-blind, or have low vision, those wh
 |Don't Use opacity: 0 to hide elements|Web browsers support many ways to hide elements — display: none (“hide and set width/height to 0”), visibility: hidden (“hide but take up the same space”), and aria-hidden=true (“screenreaders should ignore this”). Many of these are well-supported by modern screenreaders. But using opacity: 0 to hide things is well-supported by no one.|Must Have|  |
 |	Does the tab order make sense (top-to-bottom, left-to-right)  | Run your website through a screen reader then look away. Does the tab order and navigation make sense? Would a blind user be confused navigating through your website? |Must Have  | 	http://www.nvaccess.org/, ChromeVox (Chrome extension), VoiceOver - Built into MacOS, Google Talkback (Android) |
 |Jump Navigation the UVA Library  |Ensure that the UVA Library Jump Menu (for screen readers) contains a link to the following: Main Content, Main Navigation, Search Bar, and the Accessibility Services Page  |Must Have  |  |
-|  |  |  |  |
+
+### Automated QA For Developers
+Below is a list of automated tasks that can be included in each project
+| Task        | Documentation    | 
+| ------------- |:------------- |:-----|
+|Add accessibility-related testing and utility code to build process.|https://www.npmjs.com/package/accessibility-developer-tools|
+|Run scheduled accessibility reports for multiple URLs|https://www.npmjs.com/package/pa11y-webservice or https://www.npmjs.com/package/a11y|
+|Ensure the project is using valid HTML|https://www.npmjs.com/package/html-validator|
