@@ -6,8 +6,11 @@ These guidelines will cover the major things (written content, structure, format
 ### Assumptions
 This can include people who are blind, color-blind, or have low vision, those who are deaf or what hearing difficulties, people with mobility impairments which may be temporary or permanent, or people with cognitive disabilities. Write for people who are young old, power users, casual users, and those who just enjoy a quality experience.
 
-1.	Reading Level	Our content should score below a grade of 10 in a readability test (after excluding names and titles on the page).	Must Have	
-http://www.webpagefx.com/tools/read-able/
+| Title        | User Story           | Importance  | Notes |
+| ------------- |:-------------:| -----:| -----:|
+| Reading Level | Content should score below a grade of 10 in a readability test (after excluding names and titles on the page) | 	Must Have | http://www.webpagefx.com/tools/read-able/ |
+| col 2 is      | centered      |   $12 | $1600 |
+| zebra stripes | are neat      |    $1 | $1600 |
  
 2 	Avoid unusual words and abbreviations	
 Jargon, idioms, special terms should be avoided if possible. Abbreviations and Acronyms should be defined or avoided.
