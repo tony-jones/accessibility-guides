@@ -1,6 +1,12 @@
+#	Developers Accessibility Guides
 
-#	Title	User Story	Importance	Notes	Done
-1	Reading Level	Our content should score below a grade of 10 in a readability test (after excluding names and titles on the page).	Must Have	
+### Goals
+These guidelines will cover the major things (written content, structure, formatting, navigation, and images) you need to know in order for your content to be readable and usable in order to meet the minimum of standards in Section 508 and the Web Content Accessibility Guidelines 2.0. This strives for Level AA standards 
+
+### Assumptions
+This can include people who are blind, color-blind, or have low vision, those who are deaf or what hearing difficulties, people with mobility impairments which may be temporary or permanent, or people with cognitive disabilities. Write for people who are young old, power users, casual users, and those who just enjoy a quality experience.
+
+1.	Reading Level	Our content should score below a grade of 10 in a readability test (after excluding names and titles on the page).	Must Have	
 http://www.webpagefx.com/tools/read-able/
  
 2 	Avoid unusual words and abbreviations	
