@@ -6,6 +6,7 @@ These guidelines will cover the major things you need to know in order for your 
 ### Assumptions
 This can include people who are blind, color-blind, or have low vision, those who are deaf or have hearing difficulties, people with mobility impairments which may be temporary or permanent, or people with cognitive disabilities. Design for people who are young old, power users, casual users, and those who just enjoy a quality experience.
 
+### Requirements
 | Title        | User Story           | Importance  | Notes |
 | ------------- |:------------- |:-----|:-----|
 | Use ARIA labels appropriately | Relevant ARIA roles for elements | 	Must Have | http://www.w3.org/TR/wai-aria-practices/#aria_ex |
@@ -20,7 +21,7 @@ Skip to Main Content
 Skip to Navigation
 Skip to Ask a Librarian
 Skip to Accessibility Services
-Other Options (i.e. , sidebar, etc.)  |
+Other Options  |
 |Avoid using Frames|Frames are not inaccessible to modern screen readers, but they can be disorienting. If you use frames, give each frame a descriptive title attribute value. Keyboard shortcuts allow the reader to jump quickly between frames, so brief and descriptive titles are a necessity.|Must Have|  |
 |Don't Use opacity: 0 to hide elements|Web browsers support many ways to hide elements — display: none (“hide and set width/height to 0”), visibility: hidden (“hide but take up the same space”), and aria-hidden=true (“screenreaders should ignore this”). Many of these are well-supported by modern screenreaders. But using opacity: 0 to hide things is well-supported by no one.|Must Have|  |
 |	Does the tab order make sense (top-to-bottom, left-to-right)  | Run your website through a screen reader then look away. Does the tab order and navigation make sense? Would a blind user be confused navigating through your website? |Must Have  | 	
