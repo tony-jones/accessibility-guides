@@ -24,12 +24,6 @@ This can include people who are blind, color-blind, or have low vision, those wh
 ### Automated QA For Developers
 Below is a list of automated tasks that can be included in each project
 | Task          | Documentation | 
-| ------------- |:------------- | 
-| one           |               | 
-| two           |               |  
-| three         |               |    
-
-| Task          | Documentation | 
 | ------------- |:-------------:| 
 | Add accessibility-related testing and utility code for build process.	| https://www.npmjs.com/package/accessibility-developer-tools | 
 | Run scheduled accessibility reports for multiple URLs | https://www.npmjs.com/package/pa11y-webservice or https://www.npmjs.com/package/a11y |  
