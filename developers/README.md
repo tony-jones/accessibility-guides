@@ -23,11 +23,7 @@ This can include people who are blind, color-blind, or have low vision, those wh
 
 ### Automated QA For Developers
 Below is a list of automated tasks that can be included in each project
-| Task          | Documentation | 
-| ------------- |:------------- | 
-| one           |               | 
-| two           |               |  
-| three         |               |    
+  
 
 | Task          | Documentation | 
 | ------------- |:-------------:| 
