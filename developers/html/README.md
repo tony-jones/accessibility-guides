@@ -1,4 +1,4 @@
-# HTML Styleguide
+# HTML Guides
 
 *Standards for developing flexible, durable, and sustainable HTML* 
 
