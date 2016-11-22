@@ -25,6 +25,6 @@ This can include people who are blind, color-blind, or have low vision, those wh
 Below is a list of automated tasks that can be included in each project
 | Task          | Documentation | 
 | ------------- |:--------------| 
-| Add accessibility-related testing and utility code to build process |  | 
-| Run scheduled accessibility reports for multiple URLs |    |  
-| Ensure the project is using valid HTML |   |    
+| one           |               | 
+| two           |               |  
+| three         |               |    
